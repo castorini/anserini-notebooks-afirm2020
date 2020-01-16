@@ -2,7 +2,6 @@
 Colab notebooks for the 2020 ACM SIGIR/SIGKDD Africa Summer School on Machine Learning for Data Mining and Search (AFIRM 2020) session on Introduction to Information Retrieval
 
 ## Activities
----
 
 Click on the `Open in Colab` button on the respective page to start each activity.
 
